@@ -1,6 +1,17 @@
 # Vizsgafeladat
 
+A feladatok megoldásához az IDEA fejlesztőeszközt használd! 
+Bármely régebbi osztályt megnyithatsz.
 
+A saját neveddel ellátott vizsga repository-ba dolgozz (`java-sv2-adv-exams-XY`)!
+A vizsgát a repository-n belül külön projektként helyezd el, 
+a projekt neve legyen: `sv2022-jvjbf-felezovizsga`. 
+A vizsgakiírás tartalmát nyugodtan át lehet másolni (`pom.xml`). 
+GroupId: `training360`, artifactId: `sv2022-jvjbf-felezovizsga`. Csomagnév: `videos`.
+
+Ha ezzel kész vagy, azonnal commitolj!
+
+A feladatra 3 és negyed órád van összesen (195 perc). Ha letelik az idő (tehát 13:00-kor), mindenképp commitolj! Akkor is, ha nem vagy kész!
 
 ## Feladat
 
